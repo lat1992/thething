@@ -14,6 +14,7 @@ The project is divided into several modules:
   - Script runner: Execute scripts.
   - Job scheduler: Schedule tasks to run at specific times.
   - Binary launcher: Launch applications when received a command.
+  - Folder synchronization: Synchronize folders between nodes.
 
 - The Thing App:
   - App Launcher: Launch node applications.
@@ -23,3 +24,12 @@ The project is divided into several modules:
   - Remote Control: Control other devices via Wake on LAN.
   - External Resource: Access external services like weather, news, stock prices, cryptocurrency prices, etc.
   - Custom Theme: Customize the appearance of the app.
+
+## Future Features
+- Security: Implement security features like authentication and encryption.
+- Multi-user: Enable multi-user features like sharing files and folders with other users in the same network.
+- Alarm: Add notifications or alarms for events and reminders.
+- Messaging: Send and receive messages between users.
+- Password Manager: Store and manage passwords securely.
+- Media Information: Retrieve metadata, cover art and lyrics for music files.
+- AI: Integrate AI features like voice recognition, natural language processing, etc.
