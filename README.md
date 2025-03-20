@@ -1,5 +1,5 @@
 # The Thing
-This is a controller, also a music player. Turn your old device into a stream deck + music player.
+The Thing turns your old device into a stream deck + music player, give it a second life.
 
 The project is divided into several modules:
 - The Thing Node: the server run on PC, NAS or home server, compatible with windows and linux, can be run on multiple PCs, to provide music streaming, file storage.
